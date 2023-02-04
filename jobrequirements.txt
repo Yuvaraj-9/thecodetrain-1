@@ -1,4 +1,5 @@
 Programing languages
 Data structures and Algorithms
+gpa
 Development and Projects
 Softskills
